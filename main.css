@@ -1,0 +1,14 @@
+html{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+}
+
+.formatting {
+    background-color: #023047;
+    height: 50%;
+    width: 50%;
+    
+    font-size: 20px;
+    line-height: 2em;
+    color: black;
+}
